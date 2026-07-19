@@ -1,0 +1,31 @@
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Images
+*.png
+*.jpg
+
+# Dataset
+data/
+dataset_images/
+
+# Outputs
+outputs/
+
+# Model Weights
+*.pth
+*.pt
+
+# Logs
+*.log
+
+# VSCode
+.vscode/
+
+# Mac
+.DS_Store

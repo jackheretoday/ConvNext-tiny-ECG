@@ -1,0 +1,14 @@
+
+torch
+torchvision
+timm
+numpy
+pandas
+matplotlib
+opencv-python
+albumentations
+wfdb
+scikit-learn
+pillow
+tqdm
+pytorch-grad-cam
